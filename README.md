@@ -1,15 +1,23 @@
-🛒 Supermart Grocery Sales – Retail Analytics
+🛒 Supermart Grocery Sales 
+
+– Retail Analytics
 A hands-on data analytics and machine learning project using fictional grocery sales data from Tamil Nadu, India. This project demonstrates the full pipeline from data cleaning and visualization to predictive modeling and performance evaluation.
+
 📦 Dataset Overview
+
 - Source: Grocery delivery app (fictional)
 - Scope: Orders placed across cities in Tamil Nadu
-- Features: Order ID, Customer Name, Category, Sub-Category, City, Region, Sales, Discount, Profit, Order Date, Month, Year
+- Features: Order ID, Customer Name, Category, Sub-Category, City, Region, Sales, Discount, Profit, Order Date, Month, Year.
+
 🧰 Tools & Technologies
+
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
 - Jupyter Notebook / Kaggle
 - Streamlit (optional for dashboard deployment)
 - SQL & Excel (for alternate analysis)
+
 🚀 Project Workflow
+
 1. Data Preprocessing
 - Handle missing values and duplicates
 - Convert date columns to datetime format
@@ -33,11 +41,15 @@ A hands-on data analytics and machine learning project using fictional grocery s
 - Actual vs Predicted Sales scatter plot
 - Sales trends by month and year
 - Top-performing cities and categories
+
 📈 Sample Results
+
 - R² Score: 0.82
 - MSE: 1758.26
 - Strong predictive performance using basic regression
+
 🔮 Next Steps
+
 - Try advanced models: Random Forest, XGBoost
 - Deploy via Streamlit for real-time analytics
 - Add interactive filters for city, category, and time
